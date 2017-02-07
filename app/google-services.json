@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822667266933",
+    "firebase_url": "https://boom-shiva-wallpapers.firebaseio.com",
+    "project_id": "boom-shiva-wallpapers",
+    "storage_bucket": "boom-shiva-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822667266933:android:9dcb533d76fe5b1f",
+        "android_client_info": {
+          "package_name": "com.pingala.boomshivawallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822667266933-tv168mmova5jk7a9djh908h0v639miat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEh7gbiksfI__XCIQGMIi5ixYbR4MQdgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822667266933-tv168mmova5jk7a9djh908h0v639miat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
